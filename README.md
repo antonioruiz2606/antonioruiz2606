@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @antonioruiz2606
-- 🌱 I’m currently learning AI!
-- 💞️ I’m looking to collaborate on any interesting projects.
+Hi, my name is Antonio Ruiz Fernandez. I am majoring in Computer Science and Mathematics. Welcome to my github!
+
 - 📫 How to reach me: antonioruiz2606@gmail.com
 
 <!---
